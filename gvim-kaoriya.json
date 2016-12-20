@@ -1,0 +1,10 @@
+{
+  "version": "8.0",
+  "url": "http://vim-jp.org/redirects/koron/vim-kaoriya/latest/win32/",
+  "bin": [
+    "gvim.exe",
+    "vim.exe",
+    "vimrun.exe"
+  ]
+}
+
