@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0.1",
-  "url": "http://downloads.sourceforge.net/project/sakura-editor/sakura2-installer/2.2.0.1/sakura_install2-2-0-1.exe?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fsakura-editor%2F&ts=1482289685&use_mirror=jaist",
+  "version": "2.3.1.0",
+  "url": "http://downloads.sourceforge.net/project/sakura-editor/sakura2/2.3.1.0/sakura2-3-1-0.zip",
   "bin": [
     "sakura.exe"
   ]
