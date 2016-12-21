@@ -1,6 +1,6 @@
 {
   "version": "1.9.5.27581",
-  "url": "http://ja.osdn.net/frs/g_redir.php?m=kent&f=%2Ftortoisesvn%2F1.9.5%2FApplication%2FTortoiseSVN-1.9.5.27581-win32-svn-1.9.5.msi",
+  "url": "http://sourceforge.mirrorservice.org/t/to/tortoisesvn/1.9.5/Application/TortoiseSVN-1.9.5.27581-win32-svn-1.9.5.msi",
   "bin": [
     "svn.exe",
     "svnadmin.exe",
