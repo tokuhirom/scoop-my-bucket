@@ -1,0 +1,7 @@
+{
+  "version": "20110227",
+  "url": "http://files.kaoriya.net/cmigemo/cmigemo-default-win32-20110227.zip",
+  "bin": [
+    "cmigemo-default-win32/cmigemo.exe"
+  ]
+}
