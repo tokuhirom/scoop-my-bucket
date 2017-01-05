@@ -1,8 +1,5 @@
 {
   "version": "7.52",
   "url": "http://www.ponsoftware.com/archiver/explzh/explz752.exe",
-  "installer": "explz752.exe",
-  "bin": [
-    "Program Files/Explzh/EXPLZH.EXE"
-  ]
+  "installer": "explz752.exe"
 }
