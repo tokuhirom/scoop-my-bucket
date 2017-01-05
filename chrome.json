@@ -1,8 +1,0 @@
-{
-  "version": "55.0.2883.87",
-  "url": "http://jaist.dl.sourceforge.net/project/portableapps/Google%20Chrome%20Portable/GoogleChromePortable_55.0.2883.87_online.paf.exe",
-  "installer": "GoogleChromePortable_55.0.2883.87_online.paf.exe",
-  "bin": [
-    "GoogleChromePortable/GoogleChromePortable.exe"
-  ]
-}
