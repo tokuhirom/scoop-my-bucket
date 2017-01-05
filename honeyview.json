@@ -1,0 +1,5 @@
+{
+  "version": "5.18",
+  "url": "https://j2-dl.bandisoft.com/honeyview/HONEYVIEW-SETUP.EXE",
+  "installer": ["HONEYVIEW-SETUP.EXE"]
+}
